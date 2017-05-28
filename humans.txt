@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The responsible & technology colophon
+
+# TEAM
+
+	Sylvio Rajaspera				-- Full Stack Developer
+  Andrianjafy Salomon 		-- Full Stack Developer -- @SirJoshVerdi
+	Toky Ralaza Rananjason 	-- Financial Expert
+	Misa Salomon 						-- Management Expert
+
+# THANKS
+
+  Special thanks to those people who contributed to the polls which help us make difficult and abstract decisions.
+
+# TECHNOLOGY COLOPHON
+
+  CSS3,
+  Apache Server Configs, jQuery, Modernizr, Normalize.css
+	Boilerplate
